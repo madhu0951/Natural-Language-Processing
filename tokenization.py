@@ -34,3 +34,5 @@ paragraph="""I have three visions for India. In 3000 years of our history, peopl
                
 
 sentences=nltk.sent_tokenize(paragraph)
+
+words=nltk.word_tokenize(paragraph)
